@@ -88,7 +88,6 @@ Gremlin, Inc.
 ^-When I started in the industry people thought they could engineer their way out of failure
 -"We'll have redundant everything and we'll never go down"
 -But failure is inevitable
--As Michael said yesterday we want to have a failure mindset
 
 ---
 
@@ -239,7 +238,6 @@ Gremlin, Inc.
 -Things may be misconfigured in production
 -But keep in mind blast radius
 -Start in the environment most like production (probably staging)
--As Michael mentioned yesterday, depending on your industry you might not be able to do this, and that's ok
 
 ---
 
@@ -275,7 +273,6 @@ Gremlin, Inc.
 #Don't experiment on things you know are broken
 
 ^-Make them resilient first
--This relates to what Michael was talking about with everything being on fire. If your systems aren't somewhat resilient you're not going to get a ton from chaos engineering. But the hope is also that we find problems and correct them.
 
 ---
 
