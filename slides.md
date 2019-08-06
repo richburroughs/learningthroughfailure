@@ -162,11 +162,11 @@ Gremlin, Inc.
 
 ---
 
-##"The science of performing intentional experimentation on a system by injecting precise and measured amounts of harm to observe how the system responds for the purpose of improving the system’s resilience."
+##"Thoughtful, planned experiments designed to reveal weakness in our systems."
 
-^-Injecting harm or failure
--Observing how the system responds
--Doing this to improve resilience
+^-Thoughtful 
+-Injecting faulure
+-To reveal weakness in our systems
 
 ---
 
@@ -284,7 +284,6 @@ Gremlin, Inc.
 -This is how we improve our mental models
 -Looking at how the system works vs what's on the white board
 -Onboarding
--Ross mentioned yesterday openness, collaboration and fun
 
 ---
 
