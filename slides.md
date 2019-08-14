@@ -340,7 +340,7 @@ Gremlin, Inc.
 Twitter: @richburroughs
 Email: richb@gremlin.com
 
-#Slides: https://github.com/richburroughs/dojo201904
+#Slides: https://github.com/richburroughs/learningthroughfailure
 
 ^Thanks, hope yougot some ideas on how to learn more about your systems.
 We're all on this journey together so let's be friends and help each other
