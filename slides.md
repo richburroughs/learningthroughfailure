@@ -4,8 +4,8 @@ theme: Zurich, 3
 # Learning Through Failure
 
 Rich Burroughs
-Community Manager
-Gremlin, Inc.
+Senior Developer Advocate
+FireHydrant
 @richburroughs
 
 ---
